@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">view</string>
+    <string name="snap_center">Snap Center</string>
+    <string name="name">Name</string>
+    <string name="photos">Photos</string>
+    <string name="rate">Rate</string>
+</resources>
